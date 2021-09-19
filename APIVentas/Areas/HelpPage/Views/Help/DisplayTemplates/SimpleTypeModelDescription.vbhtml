@@ -1,0 +1,3 @@
+@Imports APIVentas.Areas.HelpPage.ModelDescriptions
+@ModelType SimpleTypeModelDescription
+@Model.Documentation
